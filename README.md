@@ -6,8 +6,7 @@
 
 ## 🌐 Live Preview
 
-> Coming soon – can be deployed using GitHub Pages or Netlify.
-
+https://roxanne007.github.io/Fashion-Magazine/
 ---
 
 ## 📁 Project Structure
